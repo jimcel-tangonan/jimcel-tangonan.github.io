@@ -85,16 +85,7 @@ h4 {
   padding: 10px;
 }
 
-.scary_div {
-  border: solid;
-  border-width: 0.5px;
-  text-align: center;
-  padding: 10px;
-}
 
-.mars_div {
-  text-align: center;
-}
 
 .project_title {
   text-align: center;
@@ -161,113 +152,11 @@ h4 {
   font-size: 18px;
 }
 
-.game_example {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
 
 .bold-list {
   font-weight: bold;
   font-size: 18px;
   color:  #490303;
-}
-.scary_img{
-  max-width: 55%;
-  height: auto;
-  padding: 3px;
-  border: solid;
-  border-width: 0.5px;
-  border-color: gray;
-}
-.scary_img_border{
-  /* border: solid;
-  border-width: 0.5px;
-  border-color: gray; */
-  text-align: center;
-  padding: 10px;
-  /* margin-left: 65px;
-  margin-right: 65px; */
-}
-.scary_plot_title {
-  text-align: left;
-  font-family: Oxygen;
-  padding: 10px;
-  font-style: italic;
-}
-
-
-.scary_plot_description {
-  text-align: left;
-  font-family: Oxygen;
-  padding: 10px;
-  font-size: 18px;
-}
-
-.mars_img_top, .music_img_top {
-  max-width: 80%;
-  height: auto;
-  padding: 3px;
-  border-top: solid;
-  border-left: solid;
-  border-right: solid;
-  border-width: 0.5px;
-  border-color: gray;
-}
-
-.mars_img_bottom, .music_img_bottom {
-  max-width: 80%;
-  height: auto;
-  padding: 3px;
-  border-bottom: solid;
-  border-left: solid;
-  border-right: solid;
-  border-width: 0.5px;
-  border-color: gray;
-}
-
-.music_img_middle{
-  max-width: 80%;
-  height: auto;
-  padding: 3px;
-  border-left: solid;
-  border-right: solid;
-  border-width: 0.5px;
-  border-color: gray;
-}
-
-.news_plot_title {
-  text-align: left;
-  font-family: Oxygen;
-  padding: 10px;
-  font-style: italic;
-}
-
-.news_img{
-  max-width: 100%;
-  height: auto;
-  padding: 3px;
-  border: solid;
-  border-width: 0.5px;
-  border-color: gray;
-}
-
-.news_plot_description {
-  text-align: left;
-  font-family: Oxygen;
-  padding: 10px;
-  font-size: 18px;
-}
-
-.news_img_border{
-  /* border: solid;
-  border-width: 0.5px;
-  border-color: gray; */
-  text-align: center;
-  padding: 10px;
-  /* margin-left: 65px;
-  margin-right: 65px; */
 }
 
   .aboutme_img{
@@ -289,13 +178,13 @@ h4 {
     font-size: 18px;
   }
 
-  /* .footer {
+  .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 60px;
     background-color: transparent;
-} */
+}
 
 .icon_color {
   color: black;
